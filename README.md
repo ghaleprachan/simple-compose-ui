@@ -4,5 +4,5 @@ I was surfing the internet and found a simple UI to view hotels nearby. I loved 
 
 # UI
 <p float="left">
-<img src="https://github.com/ghaleprachan/room-db-with-koin/blob/main/uiimages/simple-ui.PNG?raw=true" width="240" height="auto">
+<img src="https://github.com/ghaleprachan/Simple-Compose-UI/blob/main/samples/ui.PNG?raw=true" width="240" height="auto">
 </p>
