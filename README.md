@@ -1,6 +1,6 @@
 # Jetpack Compose Simple UI
 
-I was surfing the internet and found a simple UI to view hotels nearby. I loved the ui and had to try it using jetpack compose. It's very simple one screen UI.
+I was surfing the internet and can across a simple ui to view hotels nearby. I loved the ui and had to try it using jetpack compose. It's very simple one screen ui.
 
 # UI
 <p float="left">
